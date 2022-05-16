@@ -1,3 +1,16 @@
+## Criando projeto dentro da pasta corrente:
+npx create-react-app .
+
+## Adicionar no package.json as dependencias:
+,"devDependencies":{
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+}
+
+## Executar no terminal para ler as dependencias necessárias:
+npm i
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
